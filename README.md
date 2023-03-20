@@ -1,5 +1,5 @@
 ## hospital-management-system
-Assignment - May 2020 - firt year spring semester
+BBM104 Assignment - May 2020 - first year spring semester
 <br>
 <br>
 In this experiment we are asked to implement a hospital management system. We are given the 
